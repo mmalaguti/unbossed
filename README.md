@@ -1,8 +1,6 @@
-### The Yolo Manifesto Website
+# About
 
-Welcome to the repository where Yolo Manifesto's content lives.
+This my personal blog, a work-in-progress.
 
-Feel free to open an issue or change anything on a PR :+1:
+It uses Jekyll and was originally based off [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes).
 
-
-[![Build Status](https://travis-ci.org/davesnx/yolomanifesto.com.svg?branch=master)](https://travis-ci.org/davesnx/yolomanifesto.com)
