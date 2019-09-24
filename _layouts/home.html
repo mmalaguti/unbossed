@@ -1,7 +1,13 @@
 ---
 layout: archive
 ---
-<head><link rel="icon" type="image/png" href="assets/images/small_tree.png"></head>
+
+<head>
+{% include _head.html %}
+<link rel="icon" type="image/png" href="assets/images/small_tree.png">
+</head>
+
+
 {{ content }}
 
 <!--
@@ -20,3 +26,9 @@ layout: archive
 {% endfor %}
 
 {% include paginator.html %}
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
